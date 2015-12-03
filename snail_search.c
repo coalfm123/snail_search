@@ -1,5 +1,4 @@
 /**
- * this!
  * date : 2015-12-03
  * file : snail_search.c
  * author : Chae Mi Rue
